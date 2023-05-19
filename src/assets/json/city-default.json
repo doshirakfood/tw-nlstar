@@ -1,0 +1,23 @@
+{
+    "data": [{
+        "id": 1,
+        "label": "Россия, Новосибирская область, Новосибирск",
+        "city": "Новосибирск",
+        "region": "Новосибирская область",
+        "region_id": 45,
+        "country": "Россия",
+        "is_megalopolis": true,
+        "country_id": 1,
+        "country_alias": "ru"
+    }, {
+        "id": 373167,
+        "label": "Россия, Красноярский край, Новосибирский (Козульский)",
+        "city": "Новосибирский",
+        "region": "Красноярский край",
+        "region_id": 33,
+        "country": "Россия",
+        "is_megalopolis": false,
+        "country_id": 1,
+        "country_alias": "ru"
+    }]
+}
